@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/css/main.ce281f68.css",
+    "main.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/main.3e123292.js",
+    "static/js/787.716311f0.chunk.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/787.716311f0.chunk.js",
+    "index.html": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/index.html",
+    "main.ce281f68.css.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/css/main.ce281f68.css.map",
+    "main.3e123292.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/main.3e123292.js.map",
+    "787.716311f0.chunk.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/787.716311f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce281f68.css",
+    "static/js/main.3e123292.js"
+  ]
+}
