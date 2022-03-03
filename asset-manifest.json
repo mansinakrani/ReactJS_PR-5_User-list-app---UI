@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/css/main.ce281f68.css",
-    "main.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/main.3e123292.js",
-    "static/js/787.716311f0.chunk.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/787.716311f0.chunk.js",
-    "index.html": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/index.html",
-    "main.ce281f68.css.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/css/main.ce281f68.css.map",
-    "main.3e123292.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/main.3e123292.js.map",
-    "787.716311f0.chunk.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI.git/static/js/787.716311f0.chunk.js.map"
+    "main.css": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/css/main.ce281f68.css",
+    "main.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/js/main.b0aa010d.js",
+    "static/js/787.9cac9e16.chunk.js": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/js/787.9cac9e16.chunk.js",
+    "index.html": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/index.html",
+    "main.ce281f68.css.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/css/main.ce281f68.css.map",
+    "main.b0aa010d.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/js/main.b0aa010d.js.map",
+    "787.9cac9e16.chunk.js.map": "/mansinakrani/ReactJS_PR-5_User-list-app---UI/static/js/787.9cac9e16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce281f68.css",
-    "static/js/main.3e123292.js"
+    "static/js/main.b0aa010d.js"
   ]
 }
